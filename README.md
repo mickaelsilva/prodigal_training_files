@@ -21,6 +21,10 @@ strain: Sakai
 [CP017811.1](https://www.ncbi.nlm.nih.gov/nuccore/CP017811.1)
 strain: NML-Hia-1
 
+**Legionella pneumophila**
+[NC_002942.5](https://www.ncbi.nlm.nih.gov/nuccore/NC_002942.5)
+strain: Philadelphia
+
 **Salmonella enterica enteritidis**
 [NC_011294.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_011294.1)
 strain: P125109
