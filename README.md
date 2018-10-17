@@ -3,11 +3,11 @@ Open to suggestions.
 
 **Acinetobacter baumannii**
 [CP000521](https://www.ncbi.nlm.nih.gov/nuccore/CP000521)
-strain: NCTC 11168-BN148 
+strain: ATCC 17978
 
 **Campylobacter jejuni**
 [HE978252](https://www.ncbi.nlm.nih.gov/nuccore/HE978252)
-strain: ATCC 17978
+strain: NCTC 11168-BN148 
 
 **Enterococcus faecium**
 [NC_017960.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_017960.1)
