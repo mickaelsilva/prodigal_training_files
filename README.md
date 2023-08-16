@@ -21,6 +21,10 @@ strain: Sakai
 [CP017811.1](https://www.ncbi.nlm.nih.gov/nuccore/CP017811.1)
 strain: NML-Hia-1
 
+**Klebsiella pneumoniae**
+[NC_016845.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_016845.1)
+strain: HS11286
+
 **Legionella pneumophila**
 [NC_002942.5](https://www.ncbi.nlm.nih.gov/nuccore/NC_002942.5)
 strain: Philadelphia
